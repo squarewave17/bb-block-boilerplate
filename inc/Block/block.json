@@ -1,0 +1,15 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "bigbite/boilerplate-block",
+  "title": "Boilerplate",
+  "description": "A Boilerplate Block.",
+  "category": "text",
+  "icon": "sort",
+  "keywords": ["Boilerplate", "Block"],
+  "attributes": {},
+  "supports": {
+    "alignWide": true,
+    "align": true
+  }
+}
